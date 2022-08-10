@@ -23,8 +23,9 @@ main {
   max-width: 325px;
   /* margin: 0 auto; */
   padding: 15px;
-  border-radius: 20px;
   background-color: var(--white);
+  box-shadow: 8px 8px 20px 5px #4dd3fc88;
+  border-radius: 20px;
 }
 
 .main-qr-container .main-qr-container__img-qr-code {
